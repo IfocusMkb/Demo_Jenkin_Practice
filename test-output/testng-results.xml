@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-03T11:52:31 IST" name="Suite" finished-at="2025-01-03T11:52:31 IST" duration-ms="122">
+    <groups>
+    </groups>
+    <test started-at="2025-01-03T11:52:31 IST" name="Test" finished-at="2025-01-03T11:52:31 IST" duration-ms="122">
+      <class name="in.ifocussystec.Jenkins_Test_Automation.JenkinsDemo">
+        <test-method signature="signin()[pri:0, instance:in.ifocussystec.Jenkins_Test_Automation.JenkinsDemo@1cbb87f3]" started-at="2025-01-03T11:52:31 IST" name="signin" finished-at="2025-01-03T11:52:31 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method signature="signup()[pri:0, instance:in.ifocussystec.Jenkins_Test_Automation.JenkinsDemo@1cbb87f3]" started-at="2025-01-03T11:52:31 IST" name="signup" finished-at="2025-01-03T11:52:31 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+      </class> <!-- in.ifocussystec.Jenkins_Test_Automation.JenkinsDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
