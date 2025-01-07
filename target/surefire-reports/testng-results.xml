@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-01-03T14:34:48 IST" name="Suite" finished-at="2025-01-03T14:34:48 IST" duration-ms="132">
+  <suite started-at="2025-01-03T17:44:43 IST" name="Suite" finished-at="2025-01-03T17:44:43 IST" duration-ms="59">
     <groups>
     </groups>
-    <test started-at="2025-01-03T14:34:48 IST" name="Test" finished-at="2025-01-03T14:34:48 IST" duration-ms="132">
+    <test started-at="2025-01-03T17:44:43 IST" name="Test" finished-at="2025-01-03T17:44:43 IST" duration-ms="59">
       <class name="in.ifocussystec.Jenkins_Test_Automation.JenkinsDemo">
-        <test-method signature="signin()[pri:0, instance:in.ifocussystec.Jenkins_Test_Automation.JenkinsDemo@75f9eccc]" started-at="2025-01-03T14:34:48 IST" name="signin" finished-at="2025-01-03T14:34:48 IST" duration-ms="13" status="PASS">
+        <test-method signature="signin()[pri:0, instance:in.ifocussystec.Jenkins_Test_Automation.JenkinsDemo@75f9eccc]" started-at="2025-01-03T17:44:43 IST" name="signin" finished-at="2025-01-03T17:44:43 IST" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signin -->
-        <test-method signature="signup()[pri:0, instance:in.ifocussystec.Jenkins_Test_Automation.JenkinsDemo@75f9eccc]" started-at="2025-01-03T14:34:48 IST" name="signup" finished-at="2025-01-03T14:34:48 IST" duration-ms="1" status="PASS">
+        <test-method signature="signup()[pri:0, instance:in.ifocussystec.Jenkins_Test_Automation.JenkinsDemo@75f9eccc]" started-at="2025-01-03T17:44:43 IST" name="signup" finished-at="2025-01-03T17:44:43 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signup -->
